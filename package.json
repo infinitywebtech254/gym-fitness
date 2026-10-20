@@ -1,0 +1,1 @@
+{"name":"ironforge-gym-fitness","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"vite","build":"vite","preview":"vite preview"},"dependencies":{"@vitejs/plugin-react":"latest","lucide-react":"^1.60.0","react":"latest","react-dom":"latest","vite":"latest"}}
